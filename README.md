@@ -3,9 +3,8 @@
     
     description:
     simple game uses react 
-    The objective of the game is for the robot to reach as many target squares as possible within the 60
-    second time limit.
-    contole the robot with the arrow keys UP LEFT and RIGHT 
+    The objective of the game is for the robot to reach as many target squares as possible within the 60 secondtime limit.
+    console the robot with the arrow keys UP LEFT and RIGHT 
     
     view leaderboard saved on server
 
@@ -15,8 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 _____________________________
 
-both a react server port 3000 and php server port 8000 are required to run poroperly 
-running these commands in my-app folder usin cmd for windows each command will need its own window.
+both a react server port 3000 and php server port 8000 are required to run properly 
+running these commands in ./botGame folder using cmd for Windows each command will need its own window.
 
 npm start 
 php -S localhost:8000
