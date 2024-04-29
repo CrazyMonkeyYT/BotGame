@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 100%;
+  overflow-x: hidden;
 }
 
 .App-logo {
@@ -11,6 +13,21 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.bot {
+  width: 200px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.score {
+}
+
+.time {
 }
 
 .App-header {
